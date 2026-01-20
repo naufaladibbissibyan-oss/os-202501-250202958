@@ -60,7 +60,7 @@ praktikum/week9-sim-scheduling/
 
 ## Hasil Eksekusi
 
-![rykii phyton](https://github.com/user-attachments/assets/718f9a7b-a1e3-4596-a1e8-216d3e3490bb)
+![nopal phyton](https://github.com/user-attachments/assets/718f9a7b-a1e3-4596-a1e8-216d3e3490bb)
 
 
 ---
